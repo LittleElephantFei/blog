@@ -5,7 +5,7 @@ keywords: null
 author: John Doe
 language: en
 timezone: ''
-# https://github.com/LittleElephantFei/blog.git
+
 url: https://LittleElephantFei.github.io/blog
 root: /blog/
 permalink: ':year/:month/:day/:title/'
@@ -30,7 +30,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
